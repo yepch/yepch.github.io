@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yepch.github.io/</id>
     <title>YEP</title>
-    <updated>2019-10-02T11:39:34.436Z</updated>
+    <updated>2019-10-02T11:41:14.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yepch.github.io/"/>
     <link rel="self" href="https://yepch.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>热爱为本</subtitle>
     <logo>https://yepch.github.io//images/avatar.png</logo>
     <icon>https://yepch.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, YEP</rights>
