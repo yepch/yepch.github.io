@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yepch.github.io/</id>
     <title>YEP</title>
-    <updated>2019-10-02T12:52:21.173Z</updated>
+    <updated>2020-02-06T10:03:24.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yepch.github.io/"/>
     <link rel="self" href="https://yepch.github.io//atom.xml"/>
     <subtitle>热爱为本</subtitle>
     <logo>https://yepch.github.io//images/avatar.png</logo>
     <icon>https://yepch.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, YEP</rights>
+    <rights>All rights reserved 2020, YEP</rights>
     <entry>
         <title type="html"><![CDATA[Pharrell和NIGO新合作！]]></title>
         <id>https://yepch.github.io//post/pharrell-he-nigo-xin-he-zuo</id>
