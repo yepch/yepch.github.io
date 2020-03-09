@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yepch.github.io/</id>
     <title>ChrisK</title>
-    <updated>2020-03-09T23:56:00.044Z</updated>
+    <updated>2020-03-09T23:57:58.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yepch.github.io/"/>
     <link rel="self" href="https://yepch.github.io//atom.xml"/>
@@ -10,23 +10,4 @@
     <logo>https://yepch.github.io//images/avatar.png</logo>
     <icon>https://yepch.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, ChrisK</rights>
-    <entry>
-        <title type="html"><![CDATA[Pharrell和NIGO新合作！]]></title>
-        <id>https://yepch.github.io//post/pharrell-he-nigo-xin-he-zuo</id>
-        <link href="https://yepch.github.io//post/pharrell-he-nigo-xin-he-zuo">
-        </link>
-        <updated>2019-10-02T12:39:35.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://s2.ax1x.com/2019/10/02/ud41cq.jpg" alt=""><br>
-HUMAN MADE x adidas Hu之前就出过一款蓝色主题的Solar Hu<br>
-这次Pharrell和NIGO两人再次合作<br>
-带来新的三款联名鞋<br>
-Hu NMD、Tennis Hu和Solar Hu<br>
-这回改为了红色主题<br>
-<img src="https://s2.ax1x.com/2019/10/02/ud4bVS.jpg" alt=""><br>
-<img src="https://s2.ax1x.com/2019/10/02/ud4qUg.jpg" alt=""><br>
-阿迪达斯中国官网将在10月5日发售<br>
-有兴趣的可以关注</p>
-<p><a href="https://www.adidas.com.cn/originals_pharrellwilliams">链接</a></p>
-]]></content>
-    </entry>
 </feed>
